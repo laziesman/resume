@@ -1,0 +1,24 @@
+body{
+    background-color: #E6E6E6;
+}
+
+h1{
+    color: #532E1C;
+    /*background-color: #532E1C;*/
+}
+
+h2{
+    color: #C5A880;
+}
+
+h3{
+    color: #0F0F0F;
+}
+a[href]{
+    color: #7D7C7C;
+}
+
+img{
+    height: 150px;
+    
+}
